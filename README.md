@@ -26,6 +26,8 @@ Due to file size and licensing, the game database is **not included** by default
 
 ## How to Run (using .exe)
 
+Download the exe from here: [https://github.com/SamirMitha/Nintendo-Switch-2-Discord-Status/releases](https://github.com/SamirMitha/Nintendo-Switch-2-Discord-Status/releases)
+
 1.  Ensure you have placed `switchtdb.xml` next to the `Nintendo Switch 2 Discord Status.exe`.
 2.  Double-click `Nintendo Switch 2 Discord Status.exe` to launch the application.
 3.  **First Time Setup**:
