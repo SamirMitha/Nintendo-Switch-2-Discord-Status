@@ -1,0 +1,6 @@
+customtkinter
+pypresence
+requests
+beautifulsoup4
+lxml
+Pillow
